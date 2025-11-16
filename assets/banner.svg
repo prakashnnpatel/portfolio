@@ -1,55 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="1" stop-color="#0b6cff"/>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#9333ea"/>
     </linearGradient>
-    <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="18" flood-color="#000000" flood-opacity="0.25"/>
-    </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="12" fill="url(#g1)"/>
+  <rect width="1200" height="280" fill="url(#grad)" rx="20"/>
 
-  <g opacity="0.06" fill="#ffffff">
-    <circle cx="980" cy="60" r="120"/>
-    <circle cx="110" cy="280" r="80"/>
-    <circle cx="420" cy="120" r="60"/>
-  </g>
-
-  <g transform="translate(48,64)" filter="url(#f1)">
-    <rect x="-6" y="-6" width="760" height="232" rx="10" fill="#fff" opacity="0.04"/>
-  </g>
-
-  <text x="72" y="138" font-family="Segoe UI, Roboto, Arial" fill="#ffffff" font-size="40" font-weight="700">
+  <text x="50%" y="45%" fill="white" font-size="48" font-family="Arial, sans-serif" font-weight="bold" text-anchor="middle">
     Prakash Patel
   </text>
 
-  <text x="72" y="178" font-family="Segoe UI, Roboto, Arial" fill="#cfe1ff" font-size="18">
-    Full-Stack Developer • PHP, Laravel, WordPress • Mobile (React Native / Flutter)
+  <text x="50%" y="70%" fill="white" font-size="28" font-family="Arial, sans-serif" text-anchor="middle">
+    Full Stack Developer • Laravel • React • AWS • DevOps
   </text>
-
-  <text x="72" y="206" font-family="Segoe UI, Roboto, Arial" fill="#a7c1ff" font-size="14">
-    Building scalable, secure & high-performance web and mobile applications for 15+ years
-  </text>
-
-  <g transform="translate(72,230)">
-    <rect x="0" y="0" rx="6" ry="6" width="120" height="28" fill="#08102a" opacity="0.6"/>
-    <text x="14" y="18" font-family="Segoe UI, Roboto, Arial" fill="#e6f0ff" font-size="12">Laravel</text>
-
-    <rect x="136" y="0" rx="6" ry="6" width="120" height="28" fill="#08102a" opacity="0.6"/>
-    <text x="150" y="18" font-family="Segoe UI, Roboto, Arial" fill="#e6f0ff" font-size="12">React</text>
-
-    <rect x="272" y="0" rx="6" ry="6" width="120" height="28" fill="#08102a" opacity="0.6"/>
-    <text x="286" y="18" font-family="Segoe UI, Roboto, Arial" fill="#e6f0ff" font-size="12">AWS</text>
-
-    <rect x="408" y="0" rx="6" ry="6" width="120" height="28" fill="#08102a" opacity="0.6"/>
-    <text x="422" y="18" font-family="Segoe UI, Roboto, Arial" fill="#e6f0ff" font-size="12">MySQL</text>
-  </g>
-
-  <g transform="translate(860,60)">
-    <rect x="0" y="0" width="280" height="240" rx="12" fill="#ffffff" opacity="0.06"/>
-    <text x="18" y="34" font-family="Segoe UI, Roboto, Arial" fill="#e6f0ff" font-size="14">Portfolio</text>
-    <text x="18" y="64" font-family="Segoe UI, Roboto, Arial" fill="#bcd6ff" font-size="12">Real-time systems • E-commerce • CRM</text>
-  </g>
 </svg>

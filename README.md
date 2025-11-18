@@ -71,21 +71,7 @@ My priority is to build **long-term partnerships** and deliver reliable, maintai
 ---
 
 ## 🌐 Live Demos
-| Project | Link |
-|--------|-------|
-| Tools | https://www.toolhubspot.com |
-| Marketplace | https://www.drinkun.com |
-| Marketplace | https://www.trademystuff.com |
-| Pickup & Drop | https://rapidrunners.com |
-| Real Estate | https://www.cbselectre.com |
-| Tutoring | https://tutorgenie.ae |
-| Tutoring | https://edatlas.com.au |
-| Healthcare | https://www.montrosemg.com |
-| Sports | https://xosportshub.com |
-| Car Wash | https://washnow.thefabaf.com |
-| Consultancy | https://www.pramukhtech.com |
-| Contact me for more... |
-
+👉 **Visit my website:** https://prakashnnpatel.github.io
 
 ---
 
